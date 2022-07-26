@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeZeDarkSuspendMaliciousProcesses", "CheeZeDarkSuspendMaliciousProcesses\CheeZeDarkSuspendMaliciousProcesses.csproj", "{E41296AF-B7DE-49EF-A619-15014D36F907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41296AF-B7DE-49EF-A619-15014D36F907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41296AF-B7DE-49EF-A619-15014D36F907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41296AF-B7DE-49EF-A619-15014D36F907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41296AF-B7DE-49EF-A619-15014D36F907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B74DBC-4E90-49CD-B092-18DEE3F0B257}
+	EndGlobalSection
+EndGlobal
